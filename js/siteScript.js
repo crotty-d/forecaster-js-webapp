@@ -36,7 +36,7 @@ function submitPeriod() {
 //Update dislpay to show daily forecast
 function dailyFC(period, press, humid, wind) {
     var xmlhttp = new XMLHttpRequest();
-    var url_daily = "data/daily.json";
+    var url_daily = "data/Daily.json";
 
     xmlhttp.onreadystatechange = function() {
         if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
@@ -135,7 +135,7 @@ function dailyFC(period, press, humid, wind) {
 function detailedFC(day) {
     //Declare variables
     var xmlhttp = new XMLHttpRequest();
-    var url_detailed = "data/detailed.json";
+    var url_detailed = "data/Detailed.json";
 
     xmlhttp.onreadystatechange = function() {
         if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
