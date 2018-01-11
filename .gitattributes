@@ -1,4 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
-.html linguist-vendored
+# Hide certain files from linguist so correct coding language shown
+results/* linguist-vendored
