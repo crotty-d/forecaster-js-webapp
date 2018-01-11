@@ -1,6 +1,6 @@
 ﻿# Weather Forecaster Web App
 
-This web application is a college project that provides a 'forecast' of the weather in Dublin over a fixed 5 day period (Oct19-23 2017) using data from local JSON files, which were provided by openweathermap.org. It's written in pure JavaScript (no frame works), HTML and CSS.
+This web application is a college project that provides a 'forecast' of the weather in Dublin over a fixed 5 day period (Oct19-23 2017) using data from local JSON files, which were provided by openweathermap.org. It's written in pure JavaScript (no frameworks), HTML and CSS.
 
 To run the web app, open 'index.html' in a web browser.
 
