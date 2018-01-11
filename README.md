@@ -2,9 +2,7 @@
 
 This web application is a college project that provides a 'forecast' of the weather in Dublin over a fixed 5 day period (Oct19-23 2017) using data from local JSON files, which were provided by openweathermap.org. It's written in pure JavaScript (no frameworks), HTML and CSS.
 
-To run the web app, open 'index.html' in a web browser.
-
-
+To see it in action go to www.darraghcrotty.com/testprojects/forecaster-js-webapp. To run the web app yourself, download the repository and open 'index.html' in a web browser.
 
 Note that the Google map (via API), Google font (source sans pro), Font Awesome icons and Openweather icons are linked in from the corresponding external URLs, so proper display requires an internet connection.
 
