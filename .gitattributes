@@ -3,3 +3,5 @@
 
 # Hide certain files from linguist so correct coding language shown
 results/* linguist-vendored
+data/* linguist-vendored
+reference_files/* linguist-vendored
